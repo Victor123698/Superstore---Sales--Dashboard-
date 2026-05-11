@@ -6,7 +6,7 @@ analyzing 75,000 sales transactions across 5 regions
 and 8 countries.
 
 ## 📸 Dashboard Preview
-[Add screenshot here]
+[![Dashboard](dashboard.png)]
 
 ## 📈 Key Metrics
 | Metric | Value |
